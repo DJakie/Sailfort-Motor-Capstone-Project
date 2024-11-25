@@ -1,7 +1,4 @@
 # Sailfort-Motor-Capstone-Project
-### Summary of Steps in the Capstone Project
-
-Based on the extracted markdown content, here is a summarized workflow for your capstone project:
 
 1. **Data Understanding**:
    - The dataset was loaded and inspected to understand its structure and content.
